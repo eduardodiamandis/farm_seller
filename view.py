@@ -1,5 +1,6 @@
 # view.py
 import streamlit as st
+from openpyxl import Workbook
 import pandas as pd
 from model import expandir_coluna_e_salvar_v3
 import datetime
